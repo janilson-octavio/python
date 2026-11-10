@@ -1,0 +1,8 @@
+for c in range(2,51,2):
+    if c % 2 ==0:
+        print(".", end="")
+    print(c, end=" ")
+print("acabou!")
+print("estes são os números pares!")
+
+
